@@ -500,7 +500,7 @@ Os autores concluem que ambas as arquiteturas oferecem **abordagens valiosas par
 
 Arquitetura Hexagonal, Arquitetura Limpa, Ports, Interfaces, Design de Software.
 
-## Artigo 8
+## Artigo 8 - Desenvolvimento Cross-Platform com React Native: Um Estudo de Caso do Aplicativo NaVeg
 
 ### Dados do Trabalho:
 
