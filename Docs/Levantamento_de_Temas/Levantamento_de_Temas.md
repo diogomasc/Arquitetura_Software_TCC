@@ -46,6 +46,18 @@ O objetivo principal é definir um tema de pesquisa que explore a relação entr
 
     Um exemplo destacado é o vídeo [**Microservices Patterns na Prática - Strangler Fig**](https://www.youtube.com/watch?v=92JBsFHC2Lw), publicado em 29 de julho de 2024, que reflete a atualidade e relevância do tema. Além disso, o código fonte utilizado no vídeo está disponível no [**repositório oficial do GitHub**](https://github.com/giuliana-bezerra/stranglerfig), oferecendo uma base sólida para estudos e experimentações práticas.
 
+   Para apoiar pesquisas sobre o tema *Strangler Fig*, foram encontrados dois artigos recentes que demonstram a possibilidade de investigações relacionadas:
+
+1. Microservice Migration Using Strangler Fig Pattern: A Case Study on the Green Button System
+- **Ano de Publicação:** 2020  
+- **Autores:** Chia-Yu Li, Shang-Pin Ma (National Taiwan Ocean University), Tung-Wen Lu  
+- **Fonte:** Artigo disponível no [ResearchGate](https://www.researchgate.net/publication/349568403_Microservice_Migration_Using_Strangler_Fig_Pattern_A_Case_Study_on_the_Green_Button_System).  
+
+2. Microservice Migration Using Strangler Fig Pattern and Domain-Driven Design
+- **Ano de Publicação:** 2022  
+- **Autores:** Shang-Pin Ma, Chia-Yu Li, Wen-Tin Lee, Shin-Jie Lee  
+- **Fonte:** Artigo disponível no [Airiti Library](https://www.airitilibrary.com/Article/Detail/10162364-202211-202207150001-202207150001-1285-1303).  
+ 
 **3. Artigos que Podem Auxiliar (com pequeno resumo)**
 
 **Artigo 1:** "Mapeamento Sistemático da Literatura e Revisão da Literatura"
