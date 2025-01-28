@@ -147,7 +147,7 @@ O objetivo principal é definir um tema de pesquisa que explore a relação entr
 **Artigo 29**: "Refactoring the Whitby Intelligent Tutoring System for Clean Architecture"
 * **Resumo**: Apresenta a refatoração de um sistema de tutoria inteligente para uma arquitetura limpa, utilizando princípios SOLID e inversão de dependências. Pode auxiliar no entendimento da aplicação prática da arquitetura limpa em sistemas complexos.
 
-**4. Metodologia**
+### 4. Metodologia
 
 *   **Aplicação Prática:** Desenvolver uma pequena aplicação para exemplificar os conceitos estudados, utilizando um *framework* que suporte injeção de dependência (ex: Spring Boot para Java, .NET Core para C#, ou algum framework para Node.js).
 *   **Análise Comparativa:** Utilizar uma análise comparativa entre diferentes arquiteturas, abordagens de persistência, migrações e injeção de dependência para identificar vantagens e desvantagens.
