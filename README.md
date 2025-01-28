@@ -16,7 +16,7 @@ Para acessar a planilha de apoio ao **Mapeamento Sistemático da Literatura**, c
 - **[`Levantamento de Temas`](https://github.com/diogomasc/Arquitetura_Software_TCC/tree/main/Docs/Levantamento_de_Temas)**: Contém os principais temas elencados, juntamente com: a área principal, os temas específicos e perguntas de pesquisa, os artigos que podem auxiliar (com pequeno resumo) e a metodologia.
 - **[`Modelos`](https://github.com/diogomasc/Arquitetura_Software_TCC/tree/main/Docs/Modelos_para_Resumo)**: Contém modelos e esquemas de resumos para garantir um padrão na análise bibliográfica. Esses modelos também auxiliam o uso de ferramentas de Processamento de Linguagem Natural (PLN), como o [Notebook LM](https://notebooklm.google.com/), utilizado durante o mapeamento sistemático.
 
-## Processo de Busca (Busca de Artigos)
+### Processo de Busca (Busca de Artigos)
 
 Durante a pesquisa, utilizei fontes como sites de universidades, [IEEE](https://www.ieee.org), [ResearchGate](https://www.researchgate.net) e, claro, o Google e o [Google Acadêmico](https://scholar.google.com). Para isso, foram empregadas palavras-chave como: **Arquitetura de Software**, **Microsserviços**, **Arquitetura Monolítica**, **Arquitetura Limpa**, **Padrões de Projeto**, **Refatoração**, **Domain-Driven Design (DDD)**, **Desenvolvimento Mobile**, **Computação em Nuvem**, **Testes em Software**, **Arquitetura Hexagonal**, **SOLID**, **Evolução de Software** e **Model-Driven Engineering**, além de suas combinações e versões traduzidas para o inglês.
 
