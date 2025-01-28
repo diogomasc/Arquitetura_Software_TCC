@@ -24,4 +24,4 @@ Como resultado, obtive uma ampla diversidade de artigos e me surpreendi ao encon
 
 ### Objetivo
 
-Este repositório visa organizar os materiais e apoiar o desenvolvimento do projeto de pesquisa para o **TCC 1**, garantindo consistência, acessibilidade e uma abordagem estruturada ao tema de **Arquitetura de Software** no contexto de sistemas distribuídos.
+Este repositório visa organizar os materiais e apoiar o desenvolvimento do projeto de pesquisa para o **TCC 1**, garantindo consistência, acessibilidade e uma abordagem estruturada ao tema de **Arquitetura de Software**.
