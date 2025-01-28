@@ -5,7 +5,7 @@
 Este repositório tem como objetivo organizar artigos, resumos e materiais sobre **Arquitetura de Software** para suporte ao desenvolvimento do Trabalho de Conclusão de Curso (TCC) 1, no curso de **Sistemas de Informação**. 
 
 Para acessar a planilha de apoio ao **Mapeamento Sistemático da Literatura**, clique no link abaixo:  
-- [TCC Arquitetura Software - Mapeamento Sistemático da Literatura](https://docs.google.com/spreadsheets/)
+- [TCC Arquitetura Software - Mapeamento Sistemático da Literatura]((https://docs.google.com/spreadsheets/d/1oJdboTGCDKN3o72Yl5ZZBHIG5BIt0nicnBLRz9cp_Jg/edit?gid=0#gid=0))
 
 ### Estrutura do Repositório
 

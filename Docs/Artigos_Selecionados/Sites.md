@@ -16,7 +16,6 @@
 **Autor:** Ganesh Raj Padhayay
 **Link:** https://medium.com/@ganeshraj020794/clean-architecture-in-react-native-38025e2d7223
 
-### Comparação entre Arquiteturas (2024)
-**Título:** Comparação entre Portas na Arquitetura Hexagonal e Interfaces na Arquitetura Limpa: Uma Análise Conceitual e Prática
+### Comparação entre Portas na Arquitetura Hexagonal e Interfaces na Arquitetura Limpa: Uma Análise Conceitual e Prática (2024)
 **Autor:** Nagib Sabbag Filho
 **Link:** https://imasters.com.br/arquitetura-da-informacao/comparacao-entre-portas-na-arquitetura-hexagonal-e-interfaces-na-arquitetura-limpa-uma-analise-conceitual-e-pratica#:~:text=Na%20Arquitetura%20Hexagonal%2C%20as%20portas,entre%20as%20camadas%20da%20aplica%C3%A7%C3%A3o.
