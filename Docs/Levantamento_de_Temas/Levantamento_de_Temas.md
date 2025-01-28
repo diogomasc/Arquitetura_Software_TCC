@@ -1,15 +1,15 @@
-**Resumo Geral dos Levantamento de Temas**
+## Resumo Geral dos Levantamento de Temas
 
 O objetivo principal é definir um tema de pesquisa que explore a relação entre **arquiteturas de software**, **qualidade** e outros fatores como **migração de arquiteturas**, **persistência de dados** e **injeção de dependência**. As sugestões foram elaboradas para combinar elementos teóricos e práticos, permitindo uma análise comparativa e aprofundada.
 
-**1. Área Principal:**
+### 1. Área Principal:
 
 *   **Engenharia de Software:** O foco principal é a aplicação de princípios e práticas de engenharia de software para construir sistemas de alta qualidade e analisar processos de migração.
 *   **Arquitetura de Software:** O tema central envolve diferentes estilos arquiteturais, padrões de projeto, processos de migração e como eles afetam a qualidade do software.
 
-**2. Temas Específicos e Perguntas de Pesquisa**
+### 2. Temas Específicos e Perguntas de Pesquisa
 
-**Tema 1:** Impacto da Arquitetura de Software na Evolução e Qualidade de Sistemas de Software
+#### **Tema 1:** Impacto da Arquitetura de Software na Evolução e Qualidade de Sistemas de Software
 
 *   **Foco:** Co-mudanças em módulos arquitetônicos, diferentes visões da arquitetura e métricas de co-mudança.
 *   **Perguntas de Pesquisa:**
@@ -17,7 +17,7 @@ O objetivo principal é definir um tema de pesquisa que explore a relação entr
     *   **RQ2:** Diferentes *surrogates* para a visão de módulo exibem resultados diferentes na relação entre dispersão de co-mudanças e defeitos?
     *   **RQ3:** Uma métrica que diferencia co-mudanças entre módulos tem maior correlação com defeitos do que uma métrica que não considera a arquitetura?
 
-**Tema 2:** Arquiteturas de Software, Persistência de Dados e Injeção de Dependência: Impactos na Qualidade de Sistemas de Software
+#### **Tema 2:** Arquiteturas de Software, Persistência de Dados e Injeção de Dependência: Impactos na Qualidade de Sistemas de Software
 
 *   **Foco:** Arquiteturas limpas/hexagonais, persistência de dados (SQL/NoSQL), injeção de dependência, padrões para microsserviços e refatoração de sistemas legados.
 *   **Perguntas de Pesquisa:**
@@ -27,7 +27,7 @@ O objetivo principal é definir um tema de pesquisa que explore a relação entr
     4.  Como a injeção de dependência pode ser introduzida em sistemas legados para facilitar a refatoração da arquitetura e a evolução da base de código, e quais os desafios e benefícios desse processo?
     5. De que forma a escolha de serviços em nuvem (BaaS, DaaS) impactam a arquitetura, a persistência de dados e a qualidade de aplicações móveis?
 
-**Tema 3: Análise de Migrações de Arquitetura Monolítica para Microsserviços ou Soluções Desacopladas**
+#### **Tema 3: Análise de Migrações de Arquitetura Monolítica para Microsserviços ou Soluções Desacopladas**
 
 *   **Foco:** Dificuldades, estratégias e impactos de migrações de arquiteturas monolíticas para microsserviços ou outras soluções desacopladas.
 *   **Possibilidades de pesquisa:**
@@ -40,11 +40,11 @@ O objetivo principal é definir um tema de pesquisa que explore a relação entr
     2.  Como as decisões sobre decomposição de sistemas monolíticos em microsserviços são tomadas, e quais os critérios utilizados para definir os limites dos serviços?
     3.  De que forma a adoção de microsserviços impacta a agilidade e a eficiência das equipes de desenvolvimento, e quais os benefícios reais obtidos em comparação com a arquitetura monolítica?
 
-*  **Inspiração para Pesquisa**
+##### Inspiração para Pesquisa
     
-    Giuliana Bezerra, mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Norte (UFRN), mantém um canal no YouTube focado em Java, que serve como fonte de inspiração para diversas pesquisas. Durante minhas pesquisas, encontrei exemplos relevantes que podem ser aprofundados em um Trabalho de Conclusão de Curso (TCC), abordando temas de forma simples, acessível, mas ainda com o rigor necessário.
-
-    Um exemplo destacado é o vídeo [**Microservices Patterns na Prática - Strangler Fig**](https://www.youtube.com/watch?v=92JBsFHC2Lw), publicado em 29 de julho de 2024, que reflete a atualidade e relevância do tema. Além disso, o código fonte utilizado no vídeo está disponível no [**repositório oficial do GitHub**](https://github.com/giuliana-bezerra/stranglerfig), oferecendo uma base sólida para estudos e experimentações práticas.
+   Giuliana Bezerra, mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Norte (UFRN), mantém um canal no YouTube focado em Java, que serve como fonte de inspiração para diversas pesquisas. Durante minhas pesquisas, encontrei exemplos relevantes que podem ser aprofundados em um Trabalho de Conclusão de Curso (TCC), abordando temas de forma simples, acessível, mas ainda com o rigor necessário.
+   
+   Um exemplo destacado é o vídeo [**Microservices Patterns na Prática - Strangler Fig**](https://www.youtube.com/watch?v=92JBsFHC2Lw), publicado em 29 de julho de 2024, que reflete a atualidade e relevância do tema. Além disso, o código fonte utilizado no vídeo está disponível no [**repositório oficial do GitHub**](https://github.com/giuliana-bezerra/stranglerfig), oferecendo uma base sólida para estudos e experimentações práticas.
 
    Para apoiar pesquisas sobre o tema *Strangler Fig*, foram encontrados dois artigos recentes que demonstram a possibilidade de investigações relacionadas:
 
@@ -58,7 +58,7 @@ O objetivo principal é definir um tema de pesquisa que explore a relação entr
 - **Autores:** Shang-Pin Ma, Chia-Yu Li, Wen-Tin Lee, Shin-Jie Lee  
 - **Fonte:** Artigo disponível no [Airiti Library](https://www.airitilibrary.com/Article/Detail/10162364-202211-202207150001-202207150001-1285-1303).  
  
-**3. Artigos que Podem Auxiliar (com pequeno resumo)**
+### 3. Artigos que Podem Auxiliar (com pequeno resumo)
 
 **Artigo 1:** "Mapeamento Sistemático da Literatura e Revisão da Literatura"
 *   **Resumo:** Este artigo estabelece a base para o estudo, focando no impacto da arquitetura de software na qualidade e evolução dos sistemas. Ele apresenta as questões de pesquisa iniciais, métricas de co-mudança e reconstrução de arquitetura.
